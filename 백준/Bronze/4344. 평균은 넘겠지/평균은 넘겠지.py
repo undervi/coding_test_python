@@ -13,4 +13,4 @@ for _ in range(n):
             av_cnt += 1
           
     result = round(av_cnt/count * 100, 3)
-    print(f"{result:.3f}%")
+    print(f"{result}%")
