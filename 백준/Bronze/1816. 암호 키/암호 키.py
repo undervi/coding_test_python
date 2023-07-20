@@ -1,15 +1,15 @@
+import sys
+input = sys.stdin.readline
+
 n = int(input())
 
 for _ in range(n):
-    number = int(input())
-    result = ""
-  
+    num = int(input())
+    result = "YES"
+
     for i in range(2, 1_000_001):
-        if number % i == 0:
+        if num % i == 0:
             result = "NO"
             break
-            
-    if result == "NO":
-        print("NO")
-    else:
-        print("YES")
+
+    print(result)
