@@ -1,9 +1,2 @@
 n = int(input())
-num = 1
-
-while True:
-    if num*num > n:
-        break
-    num += 1
-
-print(num-1)
+print(int(n**0.5))
