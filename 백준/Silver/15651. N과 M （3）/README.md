@@ -2,6 +2,9 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15651) 
 
+## 코드 설명
+<img src="https://github.com/undervi/cooding_test_python/assets/95211722/80e0f634-8b0c-4798-99a3-15cadcb6bbf2">
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 680 ms
