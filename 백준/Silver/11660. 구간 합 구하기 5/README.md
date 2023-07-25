@@ -2,6 +2,12 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11660) 
 
+### 아이디어
+<img src="https://github.com/undervi/cooding_test_python/assets/95211722/a59c7574-efe5-47e9-92d7-e8d6783bcdfc">
+<img src="https://github.com/undervi/cooding_test_python/assets/95211722/75eba0da-cb2d-4cc8-a20a-58251aad313f">
+<img src="https://github.com/undervi/cooding_test_python/assets/95211722/dc7678e0-268a-46db-9c8f-7f30b56ab9d9">
+<img src="https://github.com/undervi/cooding_test_python/assets/95211722/2315f11f-9939-462f-b19a-77a0d6d8a4f6">
+
 ### 성능 요약
 
 메모리: 106576 KB, 시간: 1092 ms
