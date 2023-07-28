@@ -4,7 +4,7 @@ input = sys.stdin.readline
 
 n, k = map(int, input().split())
 items = [list(map(int, input().split())) for _ in range(n)]
-dp = [[-1 for _ in range(100_001)] for _ in range(n)]
+dp = [[-1 for _ in range(k+1)] for _ in range(n)]
 
 def recur(idx, weight):
     if weight > k:
